@@ -1,0 +1,75 @@
+body{
+border: rgb(158, 70, 7) solid 12px;
+background-color: wheat;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: saddlebrown;
+}
+.title {
+    text-align: center;
+    background-color: rgb(59, 30, 4);
+    color: white;
+    border-radius: 17px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 25px;
+    font-size: xx-large;
+}
+.prompt {
+text-align: center;
+font-size: 30px;
+border: rgb(158, 70, 7) dotted 6px;
+}
+.ans {
+    background-color: white;
+    color: black;
+    margin-right: 300px;
+    padding: 5px;
+    font-size: larger;
+}
+li {
+    font-size: medium;
+    color: black;
+}
+button {
+    border-radius: 25px;
+    background-color: saddlebrown;
+}
+.e {
+    margin-left:29px;
+    font-size: large;
+    color: black;
+}
+.resulthead {
+    border: goldenrod 10px dotted;
+    background-color: whitesmoke;
+    text-align: center;
+}
+.result {
+    text-align: center;
+    font-size: large;
+}
+.img {
+    border-radius: 360px ;
+    border: white 10px solid;
+    margin-top: 5px;
+    margin-left: 45px;
+
+    
+    
+}
+.img2 {
+border-radius: 360px;
+border: white 10px solid;
+margin-top: 40px;
+margin-left: 180px;
+
+}
+.w {
+    font-size: 16px;
+    color: blue;
+    margin-right: 129px;
+    margin-left: 30px;
+    position: absolute ;
+    top: 175px;
+    font-style: italic;
+}
