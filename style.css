@@ -3,7 +3,7 @@ border: rgb(158, 70, 7) solid 0px;
 background-color: wheat;
 font-family: Georgia, 'Times New Roman', Times, serif;
 color: saddlebrown;
-Width: device-width;
+Width: 200%;
 }
 .title {
     text-align: center;
