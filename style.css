@@ -1,5 +1,5 @@
 body{
-border: rgb(158, 70, 7) solid 10px;
+border: rgb(158, 70, 7) solid 2px;
 background-color: wheat;
 font-family: Georgia, 'Times New Roman', Times, serif;
 color: saddlebrown;
@@ -10,8 +10,8 @@ Width: 100%;
     background-color: rgb(59, 30, 4);
     color: white;
     border-radius: 17px;
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 50px;
+    margin-left: 50px;
     padding: 25px;
     font-size: xx-large;
 }
