@@ -26,11 +26,11 @@ function submit() {
     resultHEAD.innerHTML = "You got English Bulldog!";
     resultparagraph.innerHTML = "Bulldog's are sweet and gentle dogs. They are great family-pets, specifcally families containing small children. English Bulldog's love human attention." +
      "They are also low endurance and dont require much exercise. Bulldog's possess courage which can make them nice watchdogs too.";}
-    else if (protection === "A" ) {
+    else if (protection === "A" && work === "A" || "B" ) {
         resultHEAD.innerHTML = "You got Doberman Pinscher!";  
         resultparagraph.innerHTML = "Doberman Pinscher's are loyal and fearless dogs. Most may consider Doberman's as aggresive because of it's repuataion of being a war/police dog, however, in reality they are loving and caring." +
         "Doberman's only turn on their protective instincts when faced with danger. Through training, Doberman Pinscher's become dependable guard dogs.";}
-     else if (weather === "A") {
+     else if (weather === "A" && work === "A" || "B") {
     resultHEAD.innerHTML = "You got Bernese Moutain Dog!";
     resultparagraph.innerHTML = "The Bernese Moutain Dog is known for being strong and powerful. They are sweet and get along with everyone they come in contact with. Their thick, long coats allow them to strive in cold weather." +
     "The Bernese Moutain Dog is very versatile and is always up for a hard job.";}
