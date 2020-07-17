@@ -10,7 +10,7 @@ function submit() {
     var resultHEAD = document.getElementById("ResultH");
     var resultparagraph = document.getElementById("resultp");
 
-    if(age === "A"  || "B" && family === "A" && exercise === "A") {
+    if(age === "A"  || "B" && family === "A" && exercise === "A" && protection === "B" && weather === "B") {
         resultHEAD.innerHTML = "You got Labrador Retriever!";
         resultparagraph.innerHTML = " The Labrador Retriever is America's #1 dog breed. They are great family dogs, and are also very easy to train." +
         "Labs are entusiastic and require a lot of exercise like walking and swimming."; }
@@ -22,7 +22,7 @@ function submit() {
         resultHEAD.innerHTML = "You got Poodle!";
         resultparagraph.innerHTML = "The poodle is very affectionate and easy-going. They are considerded low-maintenanace and also come in three sizes." +
         "The sizes are: Toy, Miniature, and Standard. Behind the fur of coat poodles are remarkably smart.";}
-    else if (baby ==="A" && family === "A" ) {
+    else if (baby ==="A" && family === "A" && protection === "B" && weather === "B" ) {
     resultHEAD.innerHTML = "You got English Bulldog!";
     resultparagraph.innerHTML = "Bulldog's are sweet and gentle dogs. They are great family-pets, specifcally families containing small children. English Bulldog's love human attention." +
      "They are also low endurance and dont require much exercise. Bulldog's possess courage which can make them nice watchdogs too.";}
