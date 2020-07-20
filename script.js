@@ -14,7 +14,7 @@ function submit() {
         resultHEAD.innerHTML = "You got Labrador Retriever!";
         resultparagraph.innerHTML = " The Labrador Retriever is America's #1 dog breed. They are great family dogs, and are also very easy to train." +
         "Labs are entusiastic and require a lot of exercise like walking and swimming."; }
-     else if ( work === "A" && weather === "B" && protection === "B") {
+     else if ( work === "A" && weather === "B" && protection === "B" && babies === "B") {
         resultHEAD.innerHTML = "You got Chiuahua!";
         resultparagraph.innerHTML = "The Chiuahua is the smallest breed of dog. Chiuahua's are very loyal to there owners. They often snap at strangers who may be threatening to them." +
         "Chiuahua's are confident and do reqiure training. Overall they are the perfect city pet.";}
