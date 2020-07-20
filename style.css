@@ -23,8 +23,7 @@ border: rgb(158, 70, 7) dotted 6px;
 .ans {
     background-color: white;
     color: black;
-    margin-right: 125px;
-    padding: 5px;
+    padding: 10px;
     font-size: larger;
 }
 li {
