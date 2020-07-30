@@ -10,7 +10,7 @@ function submit() {
     var resultHEAD = document.getElementById("ResultH");
     var resultparagraph = document.getElementById("resultp");
 
-    if(family === "A" && exercise === "A" && protection === "B" && weather === "B" && work === "B") {
+    if(family === "A" && exercise === "A" && protection === "B" && weather === "B" && work === "B" && baby === "B") {
         resultHEAD.innerHTML = "You got Labrador Retriever!";
         resultparagraph.innerHTML = " The Labrador Retriever is America's #1 dog breed. They are great family dogs, and are also very easy to train." +
         "Labs are entusiastic and require a lot of exercise like walking and swimming."; }
