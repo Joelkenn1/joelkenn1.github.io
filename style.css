@@ -56,7 +56,7 @@ button {
     border: white 10px solid;
     margin-top: 8px;
     margin-left: 65px;
-    Z-index: 1;
+    Z-index: 2;
 
     
     
@@ -84,7 +84,7 @@ color: saddlebrown;
 background-color: saddlebrown;
 Padding: 30px;
 margin-right: 100px;
-
+z-index: 1;
 
 
 .! {
