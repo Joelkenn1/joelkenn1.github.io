@@ -56,6 +56,7 @@ button {
     border: white 10px solid;
     margin-top: 8px;
     margin-left: 65px;
+    Z-index: 1;
 
     
     
@@ -76,5 +77,15 @@ margin-left: 233px;
     top: 206px;
     font-style: italic;
 }
+.d1 {
+position: absolute ;
+top: 230px;
+color: saddlebrown;
+background-color: saddlebrown;
+Padding: 12px;
+margin-right: 200px;
+
+
+
 .! {
 Color: red; }
