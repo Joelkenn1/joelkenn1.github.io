@@ -86,12 +86,12 @@ top: 335px;
 color: saddlebrown;
 background-color: saddlebrown;
 Padding: 50px;
-margin-left: 161px;
+margin-left: 157px;
 z-index: 1;
 }
 
 .d2 { 
-position: absolute ;
+position: relative  ;
 top: 720px;
 Color: saddlebrown;
 background-color: saddlebrown;
