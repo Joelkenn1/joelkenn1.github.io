@@ -54,7 +54,7 @@ button {
 .img {
     border-radius: 360px ;
     border: white 10px solid;
-    margin-top: 8px;
+    margin-top: 18px;
     margin-left: 65px;
     position: relative;
     z-index: 3;
@@ -84,7 +84,7 @@ top: 335px;
 color: saddlebrown;
 background-color: saddlebrown;
 Padding: 50px;
-margin-left: 100px;
+margin-left: 150px;
 z-index: 1;
 
 
