@@ -12,16 +12,16 @@ function submit() {
 
     if(family === "A" && exercise === "A" && protection === "B" && weather === "B" && work === "B") {
         resultHEAD.innerHTML = "You got Labrador Retriever!";
-        resultparagraph.innerHTML = " The Labrador Retriever is America's #1 dog breed. They are great family dogs, and are also very easy to train." +
+        resultparagraph.innerHTML = " The Labrador Retriever is America's #1 dog breed. They are great family dogs, and are also very easy to train. " +
         "Labs are entusiastic and require a lot of exercise like walking and swimming."; }
      else if ( work === "A" && weather === "B" && protection === "B" && baby === "B") {
         resultHEAD.innerHTML = "You got Chiuahua!";
         resultparagraph.innerHTML = "The Chiuahua is the smallest breed of dog. Chiuahua's are very loyal to there owners. They often snap at strangers who may be threatening to them." +
-        "Chiuahua's are confident and do reqiure training. Overall they are the perfect city pet.";}
+        " Chiuahua's are confident and do reqiure training. Overall they are the perfect city pet.";}
      else if (age === "D"&& exercise === "B" && family === "B" ) {
         resultHEAD.innerHTML = "You got Poodle!";
         resultparagraph.innerHTML = "The poodle is very affectionate and easy-going. They are considerded low-maintenanace and also come in three sizes." +
-        "The sizes are: Toy, Miniature, and Standard. Behind the fur of coat poodles are remarkably smart.";}
+        " The sizes are: Toy, Miniature, and Standard. Behind the fur of coat poodles are remarkably smart.";}
     else if (baby ==="A" && family === "A" && protection === "B" && weather === "B" ) {
     resultHEAD.innerHTML = "You got English Bulldog!";
     resultparagraph.innerHTML = "Bulldog's are sweet and gentle dogs. They are great family-pets, specifcally families containing small children. English Bulldog's love human attention." +
@@ -37,7 +37,7 @@ function submit() {
     else {
         resultHEAD.innerHTML = "You got Pug!";
         resultparagraph.innerHTML = "The Pug is the perfect blend of elegance and humor. Pug's are stocky, compact and full of confidence. At times they can be stubborn, however, overall they are generally plesant. Pugs also like to go out on a daliy basis and are great around the family." +
-        "Pugs are the life of the party."; }
+        " Pugs are the life of the party."; }
      if (age === "" && weather === "" && protection === "" && work === "" && baby === "" && family === "" && exercise === "" ) {
             resultHEAD.innerHTML = "";
             resultparagraph.innerHTML = "Please answer the questions."; }
