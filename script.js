@@ -18,7 +18,7 @@ function submit() {
         resultHEAD.innerHTML = "You got Chiuahua!";
         resultparagraph.innerHTML = "The Chiuahua is the smallest breed of dog. Chiuahua's are very loyal to there owners. They often snap at strangers who may be threatening to them." +
         " Chiuahua's are confident and do reqiure training. Overall they are the perfect city pet.";}
-     else if (age === "D"&& exercise === "B" && family === "B" ) {
+     else if (age === "D"&& exercise === "B" && family === "B" && protection === "B" ) {
         resultHEAD.innerHTML = "You got Poodle!";
         resultparagraph.innerHTML = "The poodle is very affectionate and easy-going. They are considerded low-maintenanace and also come in three sizes." +
         " The sizes are: Toy, Miniature, and Standard. Behind the fur of coat poodles are remarkably smart.";}
