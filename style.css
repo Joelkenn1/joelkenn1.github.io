@@ -3,15 +3,15 @@ border: rgb(158, 70, 7) solid 2px;
 background-color: wheat;
 font-family: Georgia, 'Times New Roman', Times, serif;
 color: saddlebrown;
-Width: 160%;
+Width: 100%;
 }
 .title {
     text-align: center;
     background-color: rgb(59, 30, 4);
     color: white;
     border-radius: 17px;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
     padding: 25px;
     font-size: xx-large;
 }
@@ -66,7 +66,7 @@ button {
 border-radius: 360px;
 border: white 10px solid;
 margin-top: 40px;
-margin-left: 245px;
+margin-left: 445px;
 position: relative;
 z-index: 4;
 
