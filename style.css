@@ -1,13 +1,13 @@
 body{
+Width: auto;
 background-color: wheat;
 border:rgb(58,70,7) solid 2px;
 font-family: Georgia, 'Times New Roman', Times, serif;
 color: saddlebrown;
-Width: 150%;
 }
 .title {
     text-align: center;
-    background-color: rgb(59, 30, 4);
+    background-color: rgb(59, 30, 7);
     color: white;
     border-radius: 17px;
     margin-right: 50px;
