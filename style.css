@@ -25,7 +25,7 @@ border: rgb(158, 70, 7) dotted 6px;
     color: black;
     padding: 10px;
     font-size: larger;
-    margin-right: 750px;
+    width: 20%;
     border-radius: 10px;
 }
 li {
