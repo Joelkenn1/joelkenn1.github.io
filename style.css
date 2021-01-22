@@ -10,10 +10,9 @@ color: saddlebrown;
     background-color: rgb(59, 30, 7);
     color: white;
     border-radius: 17px;
-    margin-right: 50px;
-    margin-left: 50px;
     padding: 25px;
     font-size: xx-large;
+    border: rgb(59, 30, 7) solid 1px;
 }
 .prompt {
 text-align: center;
@@ -25,7 +24,7 @@ border: rgb(158, 70, 7) dotted 6px;
     color: black;
     padding: 10px;
     font-size: larger;
-    width: 35%;
+    border: rgb(158, 70, 7) solid 1px;
     border-radius: 10px;
 }
 li {
