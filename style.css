@@ -1,0 +1,174 @@
+    body {
+    background-color: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: saddlebrown;
+    border: rgba(158, 70, 7, 0.562) outset 10px;
+    box-sizing: border-box;
+    }
+    .topimage {
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a3/Black-Magic-Big-Boy.jpg") ;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 1340px 200px;
+        opacity: 30%;
+        padding: 15%;
+        font-size: 50px;
+        position: relative;
+        top: -135px;
+    }
+    
+    button {
+        position:relative;
+    }
+    .dropbtn{
+        background-color: rgb(70, 35, 11);
+        color: white;
+        font-size: 25px;
+        font-weight: bold;
+        font-style: italic;
+        padding: 20px;
+        left: 900px;
+        bottom: 447px;
+        border: saddlebrown solid 1px;
+        border-radius: 10px;
+        cursor: pointer;
+        z-index: 3;
+    }
+    .dropdown{
+        position: relative;
+        display: inline-block;
+        
+    }
+    .dropdownContent{
+        display: none;
+        background-color: rgb(100, 61, 34);
+        padding-top: 19px;
+        left: 900px;
+        bottom: 268px;
+        position: absolute;
+        width: 100%;
+        border-radius: 18px;
+        z-index: 2;
+    }
+    .dropdownContent a {
+        color: white;
+        padding: 10px;
+        text-decoration: none;
+        text-indent: 20%;
+        display: block;
+        top:-10px;
+        font-size: 19px;
+        width: 93%;
+        z-index: 2;
+    }
+    .dropdownContent a:hover {background-color: saddlebrown;}
+
+    .dropdown:hover .dropdownContent {display: block; }
+
+    .title{
+        position: relative;
+        bottom: 250px;
+        text-align: center;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 50px;
+        background-color: rgb(70, 35, 11);
+        color: white;
+        padding: 20px 80px 20px 80px;
+        display: inline-block;
+        left: 3%;
+        z-index: 1;
+        border: black solid 8px;
+    }
+
+    .prompt {
+    font-size: 30px;
+    border: rgb(158, 70, 7) dotted 6px;
+    text-align: center;
+    }
+    .ans {
+        background-color: rgb(70, 35, 11);
+        color: white;
+        padding: 10px;
+        font-size: larger;
+        border: saddlebrown solid 1px;
+        border-radius: 10px;
+        display: inline-block;
+    }
+    li {
+        font-size: medium;
+        color: black;
+    }
+    .submit {
+        border-radius: 25px;
+        background-color: saddlebrown;
+        Font-size:13px;
+        Padding: 6px;
+    }
+    .e {
+        margin-left:29px;
+        font-size: large;
+        color: black;
+    }
+    .resulthead {
+        border: goldenrod 10px dotted;
+        background-color: whitesmoke;
+        text-align: center;
+        font-weight: bold;
+        font-size: 30px;
+    }
+    .result {
+        text-align: center;
+        font-size: large;
+        margin-bottom: 5px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+    }
+    .img {
+        border-radius: 360px ;
+        border: white 10px solid;
+        position: relative;
+        bottom: 200px;
+        margin: 10px 50px 10px 120px;
+        z-index: 3;
+    }
+    .img2 {
+    border-radius: 360px;
+    border: white 10px solid;
+    position: relative;
+    bottom: 200px;
+    margin: 10px 15px 10px 300px;
+    z-index: 4;
+    
+    }
+    h4 {
+        margin-left: 5px;
+        font-size: 25px;
+    }
+    .header {
+        background-color: rgb(70, 35, 11);
+        text-align: left;
+        text-indent: 45px;
+        color: white;
+        padding: 20px;
+        position: relative;
+        top: -285px;
+        font-size: 35px;
+    }
+    .quiz {
+        position: relative;
+        bottom: 120px;
+    }
+    .credit {
+        position: relative;
+        color: white;
+        background-color: rgb(48, 46, 45);
+        font-style: italic;
+        font-size: 25px;
+        display: block;
+        width: 100%;
+        padding-bottom: 20px;
+        top: 150px;
+        height: 220px;
+        text-align: right;
+        
+    }
