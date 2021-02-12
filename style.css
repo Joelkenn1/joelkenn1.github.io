@@ -77,7 +77,7 @@
         color: white;
         padding: 20px 80px 20px 80px;
         display: inline-block;
-        left: 3%;
+        right: 20px;
         z-index: 1;
         border: black solid 8px;
     }
@@ -132,7 +132,7 @@
         bottom: 200px;
         margin: 10px 50px 10px 120px;
         z-index: 3;
-        right: 50px;
+        right: 60px;
     }
     .img2 {
     border-radius: 360px;
