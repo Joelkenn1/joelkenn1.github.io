@@ -132,7 +132,7 @@
         bottom: 200px;
         margin: 10px 50px 10px 120px;
         z-index: 3;
-        left: -15px;
+        right: 50px;
     }
     .img2 {
     border-radius: 360px;
