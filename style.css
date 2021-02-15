@@ -123,6 +123,7 @@
         margin-bottom: 5px;
         font-family: 'Times New Roman', Times, serif;
         font-size: 25px;
+        max-width: 1220px;
     }
     .img {
         border-radius: 360px ;
