@@ -99,8 +99,8 @@
         display: inline-block;
     }
     li {
-        font-size: medium;
-        color: black;
+        font-size: 25px;
+        left: 10px;
     }
     .submit {
         border-radius: 25px;
